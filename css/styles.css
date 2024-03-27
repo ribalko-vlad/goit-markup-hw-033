@@ -94,8 +94,12 @@ ul {
 
 .section {
 background-color: #2e2f42;
-
+padding: 188px 0 188px;
 }
+.div-one{
+    
+}
+
 .section-one {
     font-size: 56px;
     line-height: 1.07;
