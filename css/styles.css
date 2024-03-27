@@ -56,12 +56,20 @@ ul {
         color: #2e2f42;
 }
 
+ul.header-info li:not(:last-child) {
+    margin-right: 40px;
+}
+ul.header-info li:last-child {
+    margin-right: 0;
+}
+
 .info-link {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0 24px;
     
 }
 .info-link:focus{
