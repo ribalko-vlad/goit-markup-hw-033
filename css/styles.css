@@ -54,6 +54,9 @@ ul {
 .header-logo-web {
         color: #2e2f42;
 }
+.header-info{
+    display: flex;
+}
 
 
 .info-link {
