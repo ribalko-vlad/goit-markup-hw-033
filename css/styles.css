@@ -112,7 +112,7 @@ padding: 188px 0 188px;
 
 .section-two{
     padding: 120px 0 120px;
-    
+
 }
 .button {
     background-color: #4D5AE5;
@@ -213,6 +213,7 @@ font-size: 36px;
 }
 .footer{
     background-color: #2e2f42;
+    padding: 100px 0 100px;
 }
 .footer-one{
     font-family: "Raleway", sans-serif;
@@ -222,6 +223,9 @@ font-size: 36px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
+
 }
 .footer-two{
     color: #f4f4fd;
@@ -230,4 +234,5 @@ font-size: 36px;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
