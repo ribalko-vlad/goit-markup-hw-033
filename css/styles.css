@@ -105,6 +105,7 @@ padding: 188px 0 188px;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
 
 }
 .button {
@@ -116,6 +117,11 @@ padding: 188px 0 188px;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 
 }
 .button:hover{
