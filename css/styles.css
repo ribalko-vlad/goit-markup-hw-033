@@ -295,10 +295,7 @@ font-size: 36px;
     row-gap: 48px;
 }
 
-.banking{
-    width: calc((100% - 48px) / 3);
 
-}
 ul.info-four li:first-child {
     width: calc((100% - 48px) / 3);
 }
