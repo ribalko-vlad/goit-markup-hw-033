@@ -261,6 +261,7 @@ ul.primer li:last-child {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    margin-bottom: 8px;
 
 }
 .product-parag{
@@ -272,6 +273,9 @@ ul.primer li:last-child {
     line-height: 1.5;
 
 }
+.portfolio{
+    padding: 120px 0 120px 0;
+}
 
 .our-portfolio{
 font-size: 36px;
@@ -280,7 +284,25 @@ font-size: 36px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 
+
+}
+.info-four{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.banking{
+    width: calc((100% - 48px) / 3);
+
+}
+.app{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
 
 }
 .footer{
