@@ -149,13 +149,21 @@ padding: 188px 0 188px;
 
 .option{
     width: calc((100% - 72px) / 4);
-    
+
 }
 
 
 .section-two{
     padding: 120px 0 120px;
 
+}
+
+ul.primer li:not(:last-child) {
+    margin-right: 24px;
+}
+
+ul.primer li:last-child {
+    margin-right: 0;
 }
 .button {
     background-color: #4D5AE5;
@@ -186,6 +194,7 @@ padding: 188px 0 188px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 
 }
 .parag{
