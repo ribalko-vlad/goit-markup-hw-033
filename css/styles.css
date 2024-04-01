@@ -43,6 +43,7 @@ ul {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
+    font-weight: 700;
 
     
     
@@ -132,7 +133,7 @@ padding: 188px 0 188px;
     max-width: 496px;
     margin-bottom: 48px;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
 
 }
 
@@ -288,13 +289,17 @@ ul.primer li:last-child {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    margin: 0;
 
 }
 .portfolio{
     padding: 120px 0 120px 0;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+margin: 0;
 }
 
 .our-portfolio{
